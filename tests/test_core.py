@@ -1,0 +1,9 @@
+"""OpenAI-compatible HTTP LLM proxy / gateway for multi-provide"""
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
